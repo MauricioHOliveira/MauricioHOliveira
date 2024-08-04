@@ -4,7 +4,7 @@
 **MauricioHOliveira/MauricioHOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 😀 Sou Maurício Honorato, tenho 18 anos! <br>
-💻 Atualmente estou estudando para área de Front-End <br>
+💻 Atualmente estou estudando para área de Front-End. <br>
 ✨ Estou procurando sempre saber mais da área para meu perfil profissional!
 
 # 💻 Tech Stack:
